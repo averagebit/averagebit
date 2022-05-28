@@ -13,8 +13,6 @@
 ==================================================
 
 
-Hello.
-
-I'm just a guy interested in software engineering,
-devops and improving my developer workflow.
+Just a guy interested in software engineering,
+devops and improving his developer workflow.
 ```
