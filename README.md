@@ -1,13 +1,6 @@
-```
-====================================================
-                                       _     _ _
-   __ ___   _____ _ __ __ _  __ _  ___| |__ (_) |_
-  / _` \ \ / / _ \ '__/ _` |/ _` |/ _ \ '_ \| | __|
- | (_| |\ V /  __/ | | (_| | (_| |  __/ |_) | | |_
-  \__,_| \_/ \___|_|  \__,_|\__, |\___|_.__/|_|\__|
-                            |___/
-====================================================
+### Hi there 👋
 
-Just a guy interested in software engineering,
+I'm just a guy interested in software engineering,
 DevOps, and improving my developer workflow.
-```
+
+Here's a [link](https://github.com/averagebit-archive) to my archived repositories.
